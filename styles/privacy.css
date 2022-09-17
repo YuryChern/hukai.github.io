@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+  }
+  .column {
+    margin-left: 0%;
+    text-align: left;
+  }
+
+h1{
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+    color: #44565A;
+    font-size: 3vw;
+    text-align: center;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #75634A;
+    font-size: max(1.5vw,12px);
+    margin-left: 20%;
+  }
+  .p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #75634A;
+    font-size: max(1.5vw,12px);
+    margin-left: 20%;
+    margin-right: 20%;
+  }

@@ -1,0 +1,94 @@
+span d { font-size: 45%;
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+    color: #44565A;
+}
+span e { 
+    font-size: 45%; 
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+    color: #9c4e3c;
+}
+.spanf {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #75634A;
+
+    margin-right: 9%;
+    font-size: max(1.5vw,12px);
+}
+.spang { 
+    font-size: max(1.5vw,12px);
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+
+    color: #9c4e3c;
+
+
+}
+span g { 
+    font-size: max(1.5vw,12px);
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+    color: #9c4e3c;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+  font-weight: bold;
+  color: #75634A;
+  font-size: 2.5vw;
+  margin-bottom: 0;
+  text-align: center;
+  }
+h1{
+    font: 'Helvetica Light', 'Helvetica', Arial, sans-serif;
+    font-weight: 100;
+    color: #44565A;
+    font-size: 3vw;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    color: #75634A;
+    text-align: center;
+    margin-bottom: 1%;
+    font-size: max(1.5vw,12px);
+  }
+  .floating-menu {
+    font-family: sans-serif;
+    background: #FFFFFF;
+    padding: 1%;;
+    z-index: 100;
+    position: fixed;
+  }
+  .floating-menu a {
+    font-size: 1.6vw;
+    display: block;
+    margin: 0 0.5em;
+    color: #75634A;
+    text-decoration:none;
+  } 
+  .floating-menu h3 {
+    font-size: 1.7vw;
+    display: block;
+    margin: 0 0.5em;
+    color: #44565A;
+  }
+  .column3 {
+    flex: 50%;
+    text-align: left; 
+    margin-left: 10%;
+  }
+  .row {
+    display: flex;
+  }
+  .column {
+    flex: 50%;
+    text-align: center;
+  }
+  br {
+    display: block; 
+    content: ""; 
+    margin-top: 3%; 
+}
